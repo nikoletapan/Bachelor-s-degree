@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://www.peterdprojects.com/</loc>
+  <lastmod>2011-08-24T10:21:25+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.peterdprojects.com/en/index.html</loc>
+  <lastmod>2011-08-24T10:21:11+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.peterdprojects.com/bg/index.html</loc>
+  <lastmod>2011-08-24T10:20:23+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.peterdprojects.com/en/about_me.html</loc>
+  <lastmod>2011-08-24T10:21:12+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.peterdprojects.com/en/sitemap.html</loc>
+  <lastmod>2011-08-24T10:21:11+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.peterdprojects.com/bg/about_me.html</loc>
+  <lastmod>2011-08-24T10:20:24+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.peterdprojects.com/bg/sitemap.html</loc>
+  <lastmod>2011-08-24T10:20:24+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.peterdprojects.com/en/feature1.html</loc>
+  <lastmod>2011-08-24T10:21:12+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.peterdprojects.com/en/feature2.html</loc>
+  <lastmod>2011-08-24T10:21:11+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.peterdprojects.com/en/gallery.html</loc>
+  <lastmod>2011-08-24T10:21:11+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.peterdprojects.com/en/projects.html</loc>
+  <lastmod>2011-08-24T10:21:11+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.peterdprojects.com/en/contacts.html</loc>
+  <lastmod>2011-08-24T10:21:12+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.peterdprojects.com/bg/feature1.html</loc>
+  <lastmod>2011-08-24T10:20:23+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.peterdprojects.com/bg/feature2.html</loc>
+  <lastmod>2011-08-24T10:20:23+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.peterdprojects.com/bg/gallery.html</loc>
+  <lastmod>2011-08-24T10:20:23+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.peterdprojects.com/bg/projects.html</loc>
+  <lastmod>2011-08-24T10:20:23+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.peterdprojects.com/bg/contacts.html</loc>
+  <lastmod>2011-08-24T10:20:23+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+</urlset>
