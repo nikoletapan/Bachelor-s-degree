@@ -1,0 +1,147 @@
+body{
+background-color:gray;
+background-image:url('../images/links-background.jpg');
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:center;
+}
+
+.menu2 {
+font-family: verdana, arial, sans-serif; 
+width:673px;
+height:31px;
+background:#fff;
+padding:0;
+margin:0 auto; 
+position:relative;
+z-index:1;
+border-bottom:20px solid #333;
+margin-bottom:650px;
+}
+/* position the instructions using a dl */
+.menu2 dl {
+font-family:verdana, arial, sans-serif;
+font-size:0.9em;
+position:absolute;
+width:270px;
+top:160px;
+left:50px;
+}
+.menu2 dl dt {font-size:1.2em; margin-bottom:2em; font-weight:bold;}
+.menu2 dl dd { padding:0; margin:0; line-height:1.7em; margin-bottom:2em;}
+.menu2 dl dd:first-letter {font-weight:bold;}
+
+.menu2 ul {
+padding:0; 
+margin:0;
+list-style-type: none;
+border:0;
+}
+
+.menu2 ul li {
+display:block;
+float:left;
+width:51px;
+height:31px;
+}
+
+.menu2 ul li a, .menu2 ul li a:visited {
+display:block; 
+float:left;
+text-align:center; 
+text-decoration:none; 
+width:50px; 
+height:31px; 
+color:#ddd;
+border-right:1px solid #fff;
+background:#333; 
+line-height:30px; 
+font-size:11px;
+}
+
+
+span.clr {display:block; clear:both; width:0; height:0; font-size:0; line-height:0;}
+
+.menu2 ul li ul {
+display: none;
+}
+
+table {
+border-collapse:collapse;
+margin:0; 
+padding:0;
+}
+
+
+/* specific to non IE browsers */
+/* set the background and foreground color of the main menu li link on hover */
+.menu2 ul li:hover a{
+color:#fff; 
+background:#000;
+cursor:default;
+}
+
+/* make the sub menu ul visible and position it beneath the first list item */
+.menu2 ul li:hover ul {
+text-align:left;
+display:block; 
+position:absolute; 
+top:31px; 
+left:0;
+}
+
+/* make the sub menu ul li the full width with padding and border. */
+.menu2 ul li:hover ul li {
+cursor:pointer;
+width:483px;
+height:483px;
+border:20px solid #000;
+border-width:20px 5px;
+background:#ddd url(slide/linen.jpg); 
+color:#fff;
+padding:82px 90px;
+cursor:default;
+}
+
+/* style the background and foreground color of the submenu links */
+.menu2 ul li:hover ul li a {
+background:#333;
+width:118px;
+height:118px;
+border:1px solid #ddd;
+border-color:#888 #000 #000 #888;
+}
+
+
+/* keep the large image hidden */
+.menu2 ul li:hover ul li a em {
+display:none;
+}
+/* add a border to the horizontal slide and position it centrally using a top margin */
+.menu2 ul li:hover ul li a.horiz span img {
+border:1px solid #888;
+margin-top:21px;
+}
+/* add a border to the vertical slide and position it centrally using a top margin */
+.menu2 ul li:hover ul li a.vert span img {
+border:1px solid #888;
+margin-top:9px;
+}
+
+.menu2 ul li:hover ul li a:hover {
+background:#000;
+}
+
+
+/* make the active links zero size so the active dotted border does not show through the large image */
+.menu2 ul li:hover ul li a:active, .menu2 ul li:hover ul li a:focus {background:#aaa; height:0; width:0; border:0;}
+.menu2 ul li:hover ul li a:active em, .menu2 ul li:hover ul li a:focus em {background:#bbb; height:0; width:0; padding:0; margin:0; border:0;}
+
+
+/* make the large image visible and set the border, position them using position absolute centrally over the slides */
+/* horizontal large image styling */
+.menu2 ul li:hover ul li a.horiz:active em, .menu2 ul li:hover ul li a.horiz:focus em {display:block; background:#ddd; position:absolute; left:15px; top:100px; width:640px; height:480px; z-index:200; z-index:500; cursor:default; border:1px solid #fff;}
+.menu2 ul li:hover ul li a.horiz:active em img, .menu2 ul li:hover ul li a.horiz:focus em img {border:0;}
+/* vertical large image styling */
+.menu2 ul li:hover ul li a.vert:active em, .menu2 ul li:hover ul li a.vert:focus em {display:block; background:#ddd; position:absolute; left:95px; top:23px; width:480px; height:640px; z-index:200; z-index:500; cursor:default;  border:1px solid #fff;}
+.menu2 ul li:hover ul li a.vert:active em img, .menu2 ul li:hover ul li a.vert:focus em img {border:0;}

@@ -1,0 +1,16 @@
+<config version="5.2.0">
+  <swf width="668" height="338" scaleMode="noScale" alignMode="TL" preloaderSize="0" bgSoundLoop="true" publish="true" />
+  <preloader percentTextColor="16777215" bgColor="6710886" size="6552" url="resource/res/others/default.swf">
+  </preloader>
+  <dataLoadControl size="24038" url="resource/res/others/datacontrol.swf" />
+  <player size="136414" url="resource/res/others/player.swf" />
+  <playMode startType="" playType="manualPlay" endType="showReplayButton" />
+  <imgDescription position="bottom" showType="auto" />
+  <temp3D albumListType="mask" albumListPosition="" playBarVisible="true" controlBarVisible="true" autoAddImgBoolean="true" />
+  <maTempXMLData url="resource/res/others/RingL3.swf" />
+  <bgMusicList src="resource/music.xml" />
+  <maAlbumListData url="resource/album.xml" />
+  <tempBackGround>
+  <backImg alpha="1" size="0" url="resource/res/others/backImage.jpg" showType="stretch" />
+</tempBackGround>
+</config>

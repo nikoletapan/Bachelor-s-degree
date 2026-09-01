@@ -1,0 +1,23 @@
+﻿.scroll-track-top {
+    height:10px; width:10px; background-image: url('images/scroll/track_top.png');
+}
+
+.scroll-track-bot {
+    height:10px; width:10px; background-image: url('images/scroll/track_bot.png');
+}
+
+.scroll-track {
+    height:10px; width:10px; background-image: url('images/scroll/track_bg.png');
+}
+
+.scroll-handle {
+    height:60px; width:10px; background-image: url('images/scroll/handle_mid.png'); cursor:pointer;
+}
+
+.scroll-handle-top {
+    height:8px; width:10px; background-image: url('images/scroll/handle_top.png'); background-repeat: repeat; cursor:pointer;
+}
+
+.scroll-handle-bot {
+    height:8px; width:10px; background-image: url('images/scroll/handle_bot.png'); background-repeat: repeat; cursor:pointer;
+}
